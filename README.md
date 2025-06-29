@@ -1,5 +1,5 @@
- ECOBIN_X
-IOT BASED SMART WASTE MANAGEMENT SYSTEM USING AI          
+                                                           ECOBIN_X
+                                        IOT BASED SMART WASTE MANAGEMENT SYSTEM USING AI          
 
                                                       PROBLEM STATEMENT
 
